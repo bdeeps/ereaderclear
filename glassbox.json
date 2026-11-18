@@ -1,0 +1,58 @@
+{
+  "slug": "ereaderclear",
+  "box": 226,
+  "date": "2026-11-23",
+  "title": "EreaderClear",
+  "question": "How does an e-ink screen work?",
+  "hook": "A page of text with no backlight that stays on screen after the power is gone. Open a capsule thinner than a hair, push white and black particles around with a voltage, and see why the screen flashes and leaves ghosts.",
+  "thumbText": "HOW E-INK WORKS",
+  "field": "computing",
+  "minutes": 12,
+  "tags": ["e-ink", "e-paper", "e-reader", "kindle", "electrophoresis", "display", "screen", "electronics", "three.js"],
+  "explainer": [
+    {
+      "title": "Capsules of black and white",
+      "text": "An e-ink screen is a film of microcapsules, each thinner than a human hair. Every capsule holds clear fluid, positively charged white particles and negatively charged black ones. Whichever kind is nearest your eye decides whether that dot looks white or black. There is no light inside the screen. The picture is made by reflecting room light, like paper."
+    },
+    {
+      "title": "A field pushes them",
+      "text": "Put a voltage across a capsule and charged particles drift toward the electrode of opposite sign. This is electrophoresis, first seen with clay in water in Moscow in the early 1800s. One direction sends the white particles to the front and the black ones to the back. Reverse it and the dot turns black."
+    },
+    {
+      "title": "Grey is a short push",
+      "text": "How far the particles move depends on the voltage times the time it is on. A short pulse stops them part way, so black and white particles share the top and the dot looks grey. The first Kindle held 4 shades of grey. The second, in 2009, held 16."
+    },
+    {
+      "title": "Flashes and ghosts",
+      "text": "The driver cannot see the particles, only what it asked them to do. Some are sluggish or stick to the electrode, so a quick update leaves a faint ghost of the last page. A full refresh flashes every pixel black and then white first, so the new page starts from a known state. That is the blink you see when a reader turns a page."
+    },
+    {
+      "title": "Sunlight, and power only to change",
+      "text": "Glare adds the same light to the bright and dark parts of a glowing screen, so it washes out in the sun. A reflective page keeps its contrast, and gets brighter with the light. The particles stay where the field left them, so the page needs no power to stay put. Only a page turn costs energy, which is why a reader can last weeks."
+    },
+    {
+      "title": "Light, colour and the cost",
+      "text": "A frontlight is an edge-lit sheet that shines down onto the page, so you can read in the dark. Colour comes from a filter over the black and white film, which is blurrier and dimmer, or from four pigments in each capsule, which is sharper but slower to update. Each choice trades speed, clean updates and detail."
+    }
+  ],
+  "concepts": [
+    { "term": "Microcapsule", "def": "A tiny sealed bubble, thinner than a hair, filled with fluid and pigment particles." },
+    { "term": "Electrophoresis", "def": "The drift of charged particles through a fluid when an electric field is applied." },
+    { "term": "Reflective display", "def": "A screen that shows a picture by reflecting room light, as paper does, instead of making its own light." },
+    { "term": "Bistable", "def": "Stable in two states with no power. An e-ink dot stays white or black until a new pulse changes it." },
+    { "term": "Waveform", "def": "The voltage-against-time pattern sent to one pixel to take it from one shade to another." },
+    { "term": "Full refresh", "def": "An update that flashes the screen black and white first, so every pixel starts from a known state." },
+    { "term": "Ghosting", "def": "A faint trace of the previous image left because some particles did not end up quite where the driver expected." },
+    { "term": "Frontlight", "def": "An edge-lit sheet over the screen that lights the page from the front, unlike a backlight that shines through." },
+    { "term": "Backplane", "def": "The layer of thin-film transistors that applies a voltage to each pixel." },
+    { "term": "Colour filter array", "def": "A grid of red, green and blue filters over the dots, so a black and white film can show colour." }
+  ],
+  "links": {},
+  "storage": [
+    { "key": "ereaderclear.v1", "what": "Which chapters you have opened, your best quiz scores, and sound on or off." }
+  ],
+  "credits": [
+    { "name": "three.js", "license": "MIT", "url": "https://threejs.org" },
+    { "name": "Geist, Instrument Serif", "license": "SIL OFL 1.1", "url": "https://openfontlicense.org" }
+  ]
+}

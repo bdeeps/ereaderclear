@@ -1,0 +1,782 @@
+{
+  "title": "The history of e-ink",
+  "tagline": "From clay specks in a Moscow lab to a page that stays on screen with the power off, in two centuries.",
+  "intro": "Charged specks moving in a liquid were noticed in 1807. It took until the 1970s to try them as a screen, and 1997 to seal them in capsules thin enough to print. A decade later a reader built on the idea sold to the public, and now the same ink can show colour.",
+  "eras": [
+    {
+      "id": "charge",
+      "name": "Specks in a field",
+      "from": 1807,
+      "to": 1975,
+      "color": "#c49bff",
+      "summary": "Scientists see charged particles drift in water, and engineers wonder if that could make a picture."
+    },
+    {
+      "id": "paper",
+      "name": "Electric paper",
+      "from": 1975,
+      "to": 2003,
+      "color": "#8ef0ff",
+      "summary": "Two ideas compete: twisting balls at Xerox and ink in capsules at MIT. The capsules win."
+    },
+    {
+      "id": "readers",
+      "name": "E-readers arrive",
+      "from": 1998,
+      "to": 2012,
+      "color": "#ffb547",
+      "summary": "Sony, then Amazon, put e-ink in a book-sized device and people buy it."
+    },
+    {
+      "id": "light",
+      "name": "Light and colour",
+      "from": 2012,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Frontlights, sharper screens and colour make e-paper work in more places."
+    }
+  ],
+  "events": [
+    {
+      "year": 1807,
+      "date": "1807 (published 1809)",
+      "era": "charge",
+      "art": "flask",
+      "key": true,
+      "title": "Clay moves in an electric field",
+      "who": "Ferdinand Frederic Reuss, with Peter Strakhov",
+      "where": "Moscow, Russia",
+      "country": "Russia",
+      "text": "At Moscow University, Ferdinand Reuss and Peter Strakhov saw clay grains in water drift when a steady electric current passed through it. Reuss published the result in 1809. Sources date the experiments to 1807, so the year is given as 1807, published 1809.",
+      "why": "Moving charged particles with a field is the whole idea behind e-ink.",
+      "box": "field",
+      "sources": [
+        14,
+        18
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1969 (priority date)",
+      "era": "charge",
+      "art": "chip",
+      "key": true,
+      "title": "Patents for electrophoretic images",
+      "who": "Isao Ota, Matsushita",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Isao Ota of Matsushita claimed Japanese priority dates of 23 April and 12 June 1969 for an \"electrophoretic image reproduction process\". It was later filed as a Canadian patent in 1970. A US patent for an electrophoretic display device by Ota followed that year.",
+      "why": "Engineers were already trying to turn electrophoresis into a display.",
+      "box": "field",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "charge",
+      "art": "word",
+      "title": "Project Gutenberg digitises its first text",
+      "who": "Michael Hart",
+      "where": "Urbana, Illinois, USA",
+      "country": "USA",
+      "text": "Michael Hart, a University of Illinois student, typed the US Declaration of Independence into a mainframe. This began Project Gutenberg, a library of free ebooks.",
+      "why": "It started the idea that books could be plain data, ready for a reader to display.",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "c. 1975",
+      "era": "paper",
+      "art": "pixels",
+      "key": true,
+      "title": "Gyricon: a sheet of twisting balls",
+      "who": "Nick Sheridon, Xerox PARC",
+      "where": "Palo Alto, California, USA",
+      "country": "USA",
+      "text": "Nick Sheridon joined Xerox PARC in 1975. He came up with a sheet of tiny two-colour balls that turn in an electric field to show black or white. It is often called the first electronic paper. Sources place the idea in the mid-1970s.",
+      "why": "It was the first electric paper: a reflective sheet that held its picture.",
+      "box": "capsule",
+      "sources": [
+        4,
+        15
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "paper",
+      "art": "scissors",
+      "title": "Xerox moves Sheridon off e-paper",
+      "who": "Xerox",
+      "where": "Palo Alto, California, USA",
+      "country": "USA",
+      "text": "Xerox pulled Sheridon away from electronic paper research in 1977. He returned to it in the mid-1990s.",
+      "why": "The idea waited almost twenty years for the market and the electronics to catch up.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "October 1996",
+      "era": "paper",
+      "art": "scroll",
+      "title": "MIT files the first of two patents behind E Ink",
+      "who": "MIT",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "USA",
+      "text": "MIT filed a patent naming Joseph Jacobson and Barrett Comiskey on 25 October 1996. Wikipedia lists a second MIT patent from March 1997. Both were assigned to MIT.",
+      "why": "The lab work behind E Ink began to be protected.",
+      "box": "capsule",
+      "sources": [
+        3,
+        19
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "23 January 1997",
+      "era": "paper",
+      "art": "candles",
+      "key": true,
+      "title": "A particle moves inside a capsule",
+      "who": "Barrett Comiskey and JD Albert",
+      "where": "MIT Media Lab, Cambridge, USA",
+      "country": "USA",
+      "text": "Two MIT undergraduates, Barrett Comiskey and JD Albert, working with professor Joseph Jacobson, showed for the first time that an outside electric field could move a particle inside a capsule. Experts had doubted the idea. It happened at about 2 or 3 in the morning in a windowless basement lab.",
+      "why": "It proved the capsule could be a pixel.",
+      "box": "capsule",
+      "sources": [
+        5,
+        16,
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1997",
+      "era": "paper",
+      "art": "studio",
+      "key": true,
+      "title": "E Ink Corporation is founded",
+      "who": "Jacobson, Albert, Comiskey, Jerome Rubin, Russ Wilcox",
+      "where": "Massachusetts, USA",
+      "country": "USA",
+      "text": "E Ink was founded in 1997 by Jacobson, Albert, Comiskey, Jerome Rubin and Russ Wilcox, according to Wikipedia. It was set up about two months before Albert and Comiskey graduated. Its aim was to turn the lab result into a product.",
+      "why": "A lab trick became something a factory could make.",
+      "sources": [
+        19,
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "16 July 1998",
+      "era": "paper",
+      "art": "plate",
+      "title": "The Nature paper",
+      "who": "Comiskey, Albert, Yoshizawa and Jacobson",
+      "where": "MIT Media Lab, Cambridge, USA",
+      "country": "USA",
+      "text": "The team described their electrophoretic ink for printed, reflective displays in the journal Nature. The authors were Comiskey, Albert, Yoshizawa and Jacobson.",
+      "why": "It put the capsule ink on the scientific record.",
+      "box": "capsule",
+      "sources": [
+        0,
+        19
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "late 1998",
+      "era": "readers",
+      "art": "calculator",
+      "title": "The Rocket eBook goes on sale",
+      "who": "Martin Eberhard and Marc Tarpenning, NuvoMedia",
+      "where": "USA",
+      "country": "USA",
+      "text": "NuvoMedia launched the Rocket eBook at $499. It held about ten books and had an LCD screen with two page-turn buttons, not e-ink. About 20,000 sold in 1999.",
+      "why": "It showed people would read books on a device, and also how much better a paper-like screen would be.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "May 1999",
+      "era": "paper",
+      "art": "window",
+      "title": "E Ink's first product: a shop sign",
+      "who": "E Ink",
+      "where": "USA",
+      "country": "USA",
+      "text": "E Ink introduced its first product, an in-store display sign, for the department store J.C. Penney.",
+      "why": "Shop signs were the first place a screen that holds its picture could pay off.",
+      "box": "sun",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "readers",
+      "art": "filmreel",
+      "title": "Gemstar buys the Rocket's maker",
+      "who": "Gemstar-TV Guide",
+      "where": "USA",
+      "country": "USA",
+      "text": "Gemstar-TV Guide bought NuvoMedia for $187 million and merged it with SoftBook to make the RCA eBook Reader.",
+      "why": "The first ebook readers were a business before the right screen existed.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "April 2004",
+      "era": "readers",
+      "art": "clapper",
+      "key": true,
+      "title": "Sony Librie: the first e-ink reader",
+      "who": "Sony",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Sony released the Librie in Japan, an e-book reader with an E Ink display, widely described as the first. The 6-inch screen was 600 by 800 pixels at 170 dots per inch.",
+      "why": "A paper-like screen met a book-shaped device.",
+      "sources": [
+        21,
+        5
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "readers",
+      "art": "wrench",
+      "title": "Philips sells its e-paper business",
+      "who": "Philips and Prime View International",
+      "where": "Taiwan and the Netherlands",
+      "country": "Taiwan",
+      "text": "Philips sold its electronic paper business and patents to Prime View International in 2005. Xerox closed its Gyricon subsidiary that December, reportedly because it could not find backplanes below about $10 per square foot.",
+      "why": "Cost, not the physics, decided which e-paper survived.",
+      "sources": [
+        19,
+        25
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "readers",
+      "art": "keyframe",
+      "title": "Sony Reader reaches the USA",
+      "who": "Sony",
+      "where": "USA",
+      "country": "USA",
+      "text": "Sony launched the PRS-500 Reader in the USA in 2006. It showed 4 levels of grey.",
+      "why": "E-readers left Japan.",
+      "box": "grey",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "By February 2007",
+      "era": "readers",
+      "art": "telescope",
+      "title": "A sunlight-readable screen for a $100 laptop",
+      "who": "Mary Lou Jepsen, OLPC",
+      "where": "USA",
+      "country": "USA",
+      "text": "Mary Lou Jepsen, chief technology officer and hardware designer of One Laptop per Child, led work on the XO-1 screen. It showed colour with a backlight indoors and switched to black and white in sunlight. It was not e-ink, but it also relied on reflecting daylight.",
+      "why": "It showed the power of reflecting light instead of fighting the sun.",
+      "box": "sun",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "19 November 2007",
+      "era": "readers",
+      "art": "instant",
+      "key": true,
+      "title": "The first Kindle",
+      "who": "Amazon",
+      "where": "Seattle, USA",
+      "country": "USA",
+      "text": "Amazon released the first Kindle at $399. Its 600 by 800 pixel screen, at 167 dots per inch, showed 4 levels of grey.",
+      "why": "It made e-ink a mass market product.",
+      "box": "grey",
+      "sources": [
+        17,
+        20
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "October 2008",
+      "era": "readers",
+      "art": "printer",
+      "title": "A magazine cover that changes",
+      "who": "Esquire",
+      "where": "USA",
+      "country": "USA",
+      "text": "Esquire magazine's October 2008 issue was the first to integrate E Ink into its cover.",
+      "why": "E-ink moved off the reader and onto paper.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "February 2009",
+      "era": "readers",
+      "art": "pixels",
+      "title": "Kindle 2 quadruples the greys",
+      "who": "Amazon",
+      "where": "USA",
+      "country": "USA",
+      "text": "The Kindle 2 had 16 levels of grey on the same 600 by 800 screen, up from 4.",
+      "why": "More greys made photos and anti-aliased text look better.",
+      "box": "grey",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "24 December 2009",
+      "era": "readers",
+      "art": "share",
+      "title": "Prime View completes its purchase of E Ink",
+      "who": "Prime View International",
+      "where": "Taiwan",
+      "country": "Taiwan",
+      "text": "Prime View agreed in June 2008 to buy E Ink for $215 million, later raised to $450 million. The sale closed on 24 December 2009, and the buyer renamed itself E Ink Holdings.",
+      "why": "The ink's inventor and its biggest maker became one company.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "November 2010",
+      "era": "readers",
+      "art": "colour",
+      "title": "Triton: 16 greys and 4,096 colours",
+      "who": "E Ink",
+      "where": "USA",
+      "country": "USA",
+      "text": "E Ink announced Triton, a display that shows 16 shades of grey and 4,096 colours through a colour filter. Colour e-readers using it came later.",
+      "why": "Colour arrived, at the price of sharpness.",
+      "box": "front",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "6 September 2012 (shipped 1 October)",
+      "era": "light",
+      "art": "night",
+      "key": true,
+      "title": "Kindle Paperwhite adds a frontlight",
+      "who": "Amazon",
+      "where": "USA",
+      "country": "USA",
+      "text": "Amazon announced the Paperwhite with a 212 dots per inch screen, 62% more pixels than before, and a built-in LED frontlight. It shipped on 1 October. It has 768 by 1024 pixels and 16 greys.",
+      "why": "Readers could now be used in bed without a lamp.",
+      "box": "front",
+      "sources": [
+        7,
+        20
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "January 2013",
+      "era": "light",
+      "art": "focus",
+      "title": "Carta: sharper pages",
+      "who": "E Ink",
+      "where": "USA",
+      "country": "USA",
+      "text": "E Ink announced Carta, with 768 by 1024 pixels and 212 dots per inch on 6-inch screens.",
+      "why": "Text started to look like print.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "May 2016",
+      "era": "light",
+      "art": "trophy",
+      "title": "E-ink inventors enter the Hall of Fame",
+      "who": "JD Albert, Barrett Comiskey and Joseph Jacobson",
+      "where": "USA",
+      "country": "USA",
+      "text": "Joseph Jacobson, JD Albert and Barrett Comiskey were inducted into the US National Inventors Hall of Fame for electronic ink. That same month E Ink announced Advanced Color ePaper, which uses four pigments.",
+      "why": "The undergraduates' basement experiment was recognised as an invention.",
+      "box": "front",
+      "sources": [
+        6,
+        5,
+        19
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "December 2019",
+      "era": "light",
+      "art": "palette",
+      "key": true,
+      "title": "Kaleido colour e-paper announced",
+      "who": "E Ink",
+      "where": "USA",
+      "country": "USA",
+      "text": "In December 2019 E Ink announced a colour technology called Print Color. E Ink says the first Kaleido product launched in Q2 2020, and Kaleido Plus followed in March 2021. Wikipedia lists Kaleido 3 in 2023.",
+      "why": "Colour became a normal option on reading tablets.",
+      "box": "front",
+      "sources": [
+        11,
+        10,
+        19
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020",
+      "era": "light",
+      "art": "phone",
+      "title": "Colour e-ink phones",
+      "who": "Hisense",
+      "where": "China",
+      "country": "China",
+      "text": "Hisense released the A5C and A5 Pro in 2020, described as the first colour e-ink smartphones.",
+      "why": "E-paper moved from readers to the thing in your pocket.",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "30 October 2024",
+      "era": "light",
+      "art": "colour",
+      "title": "Kindle Colorsoft",
+      "who": "Amazon",
+      "where": "USA",
+      "country": "USA",
+      "text": "The Colorsoft Signature Edition has a 7-inch screen, with 300 pixels per inch in black and white and 150 in colour, and a frontlight. It was announced in October 2024 at $279.99.",
+      "why": "It shows the colour trade-off in one spec sheet.",
+      "box": "front",
+      "sources": [
+        8,
+        9
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First e-reader with an E Ink display (widely described)",
+      "value": "April 2004",
+      "who": "Sony Librie, Japan"
+    },
+    {
+      "label": "First magazine cover to integrate E Ink",
+      "value": "October 2008",
+      "who": "Esquire, USA"
+    },
+    {
+      "label": "First colour e-ink smartphones",
+      "value": "2020",
+      "who": "Hisense A5C, China"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ferdinand Frederic Reuss",
+      "life": "1778 – 1852",
+      "role": "Professor at Moscow University",
+      "from": "Russia",
+      "note": "With Peter Strakhov, saw clay particles migrate in an electric field."
+    },
+    {
+      "name": "Isao Ota",
+      "life": "",
+      "role": "Engineer at Matsushita",
+      "from": "Japan",
+      "note": "Named inventor on 1969 Matsushita patents for an electrophoretic image process."
+    },
+    {
+      "name": "Nick Sheridon",
+      "life": "",
+      "role": "Researcher at Xerox PARC",
+      "from": "USA",
+      "note": "Devised Gyricon, the twisting-ball electric paper."
+    },
+    {
+      "name": "Joseph Jacobson",
+      "life": "born 1965",
+      "role": "Professor, MIT Media Lab",
+      "from": "USA",
+      "note": "Led the group that made microcapsule e-ink."
+    },
+    {
+      "name": "Barrett Comiskey",
+      "life": "born 1975",
+      "role": "Inventor, then an MIT undergraduate",
+      "from": "USA",
+      "note": "Led development of the first generation of E Ink."
+    },
+    {
+      "name": "JD Albert",
+      "life": "born 1975",
+      "role": "Inventor, then an MIT undergraduate",
+      "from": "USA",
+      "note": "Developed the manufacturing methods for high volume."
+    },
+    {
+      "name": "Mary Lou Jepsen",
+      "life": "",
+      "role": "Hardware designer of the OLPC XO laptop",
+      "from": "USA",
+      "note": "Chief technology officer and hardware designer at One Laptop per Child, where the sunlight-readable XO-1 screen began; later founded Pixel Qi."
+    },
+    {
+      "name": "Michael Hart",
+      "life": "1947 – 2011",
+      "role": "Founder of Project Gutenberg",
+      "from": "USA",
+      "note": "Began digitising books in 1971."
+    }
+  ],
+  "series": [
+    {
+      "id": "ppi",
+      "title": "How sharp e-reader screens became",
+      "unit": "pixels per inch",
+      "log": false,
+      "after": "readers",
+      "caption": "From 170 pixels per inch on the first reader to 300 in black and white on a modern one.",
+      "points": [
+        {
+          "year": 2004,
+          "value": 170,
+          "label": "Sony Librie: 170 ppi"
+        },
+        {
+          "year": 2007,
+          "value": 167,
+          "label": "First Kindle: 167 ppi"
+        },
+        {
+          "year": 2012,
+          "value": 212,
+          "label": "Kindle Paperwhite: 212 ppi"
+        },
+        {
+          "year": 2024,
+          "value": 300,
+          "label": "Kindle Colorsoft: 300 ppi black and white"
+        }
+      ]
+    },
+    {
+      "id": "greys",
+      "title": "Shades of grey on e-readers",
+      "unit": "grey levels",
+      "log": false,
+      "after": "light",
+      "caption": "Four shades in 2006 and 2007, sixteen from 2009 on.",
+      "points": [
+        {
+          "year": 2006,
+          "value": 4,
+          "label": "Sony PRS-500: 4 greys"
+        },
+        {
+          "year": 2007,
+          "value": 4,
+          "label": "First Kindle: 4 greys"
+        },
+        {
+          "year": 2009,
+          "value": 16,
+          "label": "Kindle 2: 16 greys"
+        },
+        {
+          "year": 2012,
+          "value": 16,
+          "label": "Kindle Paperwhite: 16 greys"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The microcapsule breakthrough came on 23 January 1997, at about 2 or 3 in the morning, in a windowless basement lab.",
+    "E Ink was founded two months before its two student inventors graduated.",
+    "Xerox closed its e-paper subsidiary in 2005, reportedly over the cost of the transistor backplane, not the ink.",
+    "The Rocket eBook of 1998 had an LCD, not e-ink, and held about ten books."
+  ],
+  "sources": [
+    {
+      "title": "An electrophoretic ink for all-printed reflective electronic displays",
+      "publisher": "Nature",
+      "url": "https://doi.org/10.1038/28349"
+    },
+    {
+      "title": "CA920413A: Electrophoretic image reproduction process (Ota Isao, Matsushita)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/CA920413A/en"
+    },
+    {
+      "title": "US3668106A: Electrophoretic display device",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3668106A/en"
+    },
+    {
+      "title": "US5930026A: Nonemissive displays and piezoelectric power supplies therefor",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US5930026A/en"
+    },
+    {
+      "title": "Electronic Paper Turns the Page",
+      "publisher": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/s/400901/electronic-paper-turns-the-page/"
+    },
+    {
+      "title": "How Electronic Ink Was Invented",
+      "publisher": "Science Friday",
+      "url": "https://www.sciencefriday.com/articles/how-electronic-ink-was-invented/"
+    },
+    {
+      "title": "Joseph M. Jacobson",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/joseph-m-jacobson"
+    },
+    {
+      "title": "Introducing the New Kindle Paperwhite, the Most Advanced E-Reader Ever Constructed",
+      "publisher": "Amazon (press release)",
+      "url": "https://press.aboutamazon.com/2012/9/introducing-the-new-kindle-paperwhite-the-most-advanced-e-reader-ever-constructed"
+    },
+    {
+      "title": "Amazon's first color Kindle has arrived",
+      "publisher": "Amazon (About Amazon)",
+      "url": "https://www.aboutamazon.com/news/devices/kindle-color-specs-price-announce"
+    },
+    {
+      "title": "Introducing Kindle Colorsoft Signature Edition",
+      "publisher": "Good e-Reader",
+      "url": "https://goodereader.com/blog/kindle/introducing-kindle-colorsoft-signature-edition"
+    },
+    {
+      "title": "E Ink Releases Latest Generation Print Color Display: E Ink Kaleido Plus",
+      "publisher": "E Ink Holdings",
+      "url": "https://www.eink.com/news/detail/E-Ink-Releases-Latest-Generation-Print-Color-Display:-E-Ink-Kaleido%E2%84%A2-Plus"
+    },
+    {
+      "title": "E Ink Releasing New \"Print-Color\" Screens for eReaders and Notebooks",
+      "publisher": "The eBook Reader Blog",
+      "url": "https://blog.the-ebook-reader.com/2019/12/18/e-ink-releasing-new-color-screens-print-color-e-ink/"
+    },
+    {
+      "title": "Mary Lou Jepsen: Laptops for All",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/mary-lou-jepsen-laptops-for-all"
+    },
+    {
+      "title": "Pixel Qi Screen vs. XO-1.5: Hands-On Sunlight Readable Review",
+      "publisher": "OLPC News",
+      "url": "https://www.olpcnews.com/hardware/screen/pixel_qi_screen_vs_xo-15_hands.html"
+    },
+    {
+      "title": "Tribute to F.F. Reuss",
+      "publisher": "IC-CCPCM 2008 conference",
+      "url": "http://www.icc2008.ru/en/conference/reuss.htm"
+    },
+    {
+      "title": "Xerox PARC Gyricon Electronic Paper",
+      "publisher": "HCI Museum",
+      "url": "https://interfacemuseum.com/exhibits/gyricon/"
+    },
+    {
+      "title": "Interview with Barrett Comiskey, father of electronic ink",
+      "publisher": "Visionect",
+      "url": "https://www.visionect.com/blog/interview-with-barrett-comiskey/"
+    },
+    {
+      "title": "Amazon Rolls Out New Wireless Reading Device",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2007/11/19/16435541/amazon-rolls-out-new-wireless-reading-device"
+    },
+    {
+      "title": "History of electrophoresis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_electrophoresis"
+    },
+    {
+      "title": "E Ink",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/E_Ink"
+    },
+    {
+      "title": "Amazon Kindle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+    },
+    {
+      "title": "Sony Reader",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sony_Reader"
+    },
+    {
+      "title": "Rocket eBook",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rocket_eBook"
+    },
+    {
+      "title": "Project Gutenberg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Project_Gutenberg"
+    },
+    {
+      "title": "Michael S. Hart",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_S._Hart"
+    },
+    {
+      "title": "Gyricon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gyricon"
+    },
+    {
+      "title": "Electronic paper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electronic_paper"
+    },
+    {
+      "title": "Barrett Comiskey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barrett_Comiskey"
+    },
+    {
+      "title": "JD Albert",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/JD_Albert"
+    }
+  ]
+}
